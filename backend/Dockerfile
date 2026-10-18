@@ -1,5 +1,5 @@
 # Practical 11: Containerization with Docker & Docker Compose
-# Student: Aayush Malhotra (24CS051)
+# Student: Vivek Maheshwari (24CS050)
 # Node.js backend container definition
 
 FROM node:20-alpine

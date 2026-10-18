@@ -1,6 +1,6 @@
 // ==============================================================================
 // ITUE301: Advanced Web Development Frameworks - Practical 13
-// Student: Aayush Malhotra (ID: 24CS051)
+// Student: Vivek Maheshwari (ID: 24CS050)
 // AI API Service (Google Gemini Integration & Graceful Degradation)
 // ==============================================================================
 

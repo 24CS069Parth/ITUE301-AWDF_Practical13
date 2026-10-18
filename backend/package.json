@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-mongodb-24cs051",
+  "name": "task-manager-mongodb-24cs050",
   "version": "1.0.0",
   "description": "AI API Integration into a Web Application (Google Gemini) - Practical 13",
   "main": "server.js",
@@ -17,7 +17,7 @@
     "crud",
     "itue301"
   ],
-  "author": "Aayush Malhotra (24CS051)",
+  "author": "Vivek Maheshwari (24CS050)",
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
