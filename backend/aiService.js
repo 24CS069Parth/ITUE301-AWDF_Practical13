@@ -1,6 +1,6 @@
 // ==============================================================================
 // ITUE301: Advanced Web Development Frameworks - Practical 13
-// Student: Vivek Maheshwari (ID: 24CS050)
+// Student: Parth Patel (ID: 24CS069)
 // AI API Service (Google Gemini Integration & Graceful Degradation)
 // ==============================================================================
 

@@ -1,8 +1,8 @@
 # Practical 11: Containerization with Docker and Docker Compose
 **Course**: Advanced Web Development Frameworks (ITUE301)  
-**Student**: Vivek Maheshwari (ID: 24CS050)  
+**Student**: Parth Patel (ID: 24CS069)  
 **Department**: Department of Computer Science & Engineering, CSPIT, CHARUSAT  
-**Repository**: [24CS050Vivek/ITUE301-AWDF_Practical11](https://github.com/24CS050Vivek/ITUE301-AWDF_Practical11)
+**Repository**: [24CS069Parth/ITUE301-AWDF_Practical11](https://github.com/24CS069Parth/ITUE301-AWDF_Practical11)
 
 ---
 
@@ -110,8 +110,8 @@ services:
       - "5000:5000"
     environment:
       - PORT=5000
-      - MONGO_URI=mongodb://mongodb:27017/task_manager_24cs050
-      - JWT_SECRET=supersecretjwtkey_24cs050_vivek_practical11
+      - MONGO_URI=mongodb://mongodb:27017/task_manager_24cs069
+      - JWT_SECRET=supersecretjwtkey_24cs069_parth_practical11
     depends_on:
       - mongodb
     networks:

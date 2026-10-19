@@ -1,6 +1,6 @@
 # ==============================================================================
 # Practical 11: Containerization with Docker & Docker Compose
-# Student: Vivek Maheshwari (24CS050)
+# Student: Parth Patel (24CS069)
 # Multi-stage Dockerfile for React (Vite) Frontend
 # ==============================================================================
 

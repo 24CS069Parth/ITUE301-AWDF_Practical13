@@ -1,9 +1,9 @@
 # Practical 12: CI/CD Pipeline with GitHub Actions
 **Course**: Advanced Web Development Frameworks (ITUE301)  
-**Student**: Vivek Maheshwari (ID: 24CS050)  
+**Student**: Parth Patel (ID: 24CS069)  
 **Department**: Department of Computer Science & Engineering, CSPIT, CHARUSAT  
-**Repository**: [24CS050Vivek/ITUE301-AWDF_Practical12](https://github.com/24CS050Vivek/ITUE301-AWDF_Practical12)  
-**Pipeline Status**: [![CI Pipeline](https://github.com/24CS050Vivek/ITUE301-AWDF_Practical12/actions/workflows/ci.yml/badge.svg)](https://github.com/24CS050Vivek/ITUE301-AWDF_Practical12/actions/workflows/ci.yml)
+**Repository**: [24CS069Parth/ITUE301-AWDF_Practical12](https://github.com/24CS069Parth/ITUE301-AWDF_Practical12)  
+**Pipeline Status**: [![CI Pipeline](https://github.com/24CS069Parth/ITUE301-AWDF_Practical12/actions/workflows/ci.yml/badge.svg)](https://github.com/24CS069Parth/ITUE301-AWDF_Practical12/actions/workflows/ci.yml)
 
 ---
 
@@ -105,7 +105,7 @@ jobs:
         run: npm test
         env:
           NODE_ENV: test
-          JWT_SECRET: supersecret_ci_test_key_24cs050
+          JWT_SECRET: supersecret_ci_test_key_24cs069
 ```
 
 ---

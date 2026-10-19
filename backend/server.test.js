@@ -1,6 +1,6 @@
 // ==============================================================================
 // ITUE301: Advanced Web Development Frameworks - Practical 12
-// Student: Vivek Maheshwari (ID: 24CS050)
+// Student: Parth Patel (ID: 24CS069)
 // Automated API Test Suite for CI/CD Pipeline with GitHub Actions
 // ==============================================================================
 
@@ -14,7 +14,7 @@ describe('Practical 12: CI/CD Automated Test Pipeline', () => {
     const res = await request(app).get('/');
     expect(res.statusCode).toBe(200); // Fixed assertion: expects 200 and receives 200
     expect(res.body).toHaveProperty('student');
-    expect(res.body.student).toContain('24CS050');
+    expect(res.body.student).toContain('24CS069');
   });
 
   // Test 2 (Student Assignment): Health Check endpoint returns valid status

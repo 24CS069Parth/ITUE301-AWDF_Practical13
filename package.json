@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-jwt-auth-24cs050",
+  "name": "task-manager-jwt-auth-24cs069",
   "version": "1.0.0",
   "description": "JWT-Based Authentication and Middleware Pipeline - Practical 7",
   "scripts": {
@@ -11,6 +11,6 @@
     "lint": "npm --prefix backend run lint"
   },
   "keywords": ["jwt", "bcrypt", "authentication", "middleware", "express", "react", "itue301"],
-  "author": "Vivek Maheshwari (24CS050)",
+  "author": "Parth Patel (24CS069)",
   "license": "ISC"
 }
